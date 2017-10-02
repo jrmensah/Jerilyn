@@ -3,10 +3,13 @@ public class Jerilyn {
 
         //Declare all variables
 
-        int firstName,lastName,myAge;
+        int myAge;
+        myAge = 30;
 
         //All three
-        String = firstName, lastName, myAge;
+        String firstName, lastName;
+        firstName = "Jerilyn";
+        lastName = "Mensah";
 
         // Questions ask my name and my age
         String question = "What is your name?";
@@ -19,7 +22,7 @@ public class Jerilyn {
         lastName = "Mensah";
 
         // String question2 = "What is your age?";
-        myAge = "30";
+        myAge = 30;
 
 
         //    Print my first name
